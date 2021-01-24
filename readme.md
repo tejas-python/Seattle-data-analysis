@@ -52,6 +52,7 @@ from folium import plugins
 [World map4](https://tejas-python.github.io/Seattle-data-analysis/2016heatmap.html)
 
 ## Google colab link 
-[link]()
+[link](https://github.com/tejas-python/Seattle-data-analysis/blob/master/seatle%20data%20analysis.ipynb)
+[download](https://tejas-python.github.io/Seattle-data-analysis/seatle%20data%20analysis.ipynb)
 ## Links
 [Data](https://www.kaggle.com/city-of-seattle/sea-building-energy-benchmarking#2015-building-energy-benchmarking.csv)
