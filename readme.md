@@ -43,16 +43,20 @@ from folium import plugins
 ![bar plot](./image/bar2016.png)
 
 ## Plotting on the world map using location 
-[World map1](https://tejas-python.github.io/Seattle-data-analysis/2015map.html)
 
-[World map2](https://tejas-python.github.io/Seattle-data-analysis/2015heatmap.html)
+* Following [plot](https://tejas-python.github.io/Seattle-data-analysis/2015map.html) gives GHE emission with respect to location.
 
-[World map3](https://tejas-python.github.io/Seattle-data-analysis/2016map.html)
+* Following
+[plot](https://tejas-python.github.io/Seattle-data-analysis/2015heatmap.html) gives GHE emission heat map with respect to Seatle.
 
-[World map4](https://tejas-python.github.io/Seattle-data-analysis/2016heatmap.html)
+* Following [plot](https://tejas-python.github.io/Seattle-data-analysis/2016map.html) gives GHE emission with respect to location.
+
+* Following
+[plot](https://tejas-python.github.io/Seattle-data-analysis/2016heatmap.html) gives GHE emission heat map with respect to Seatle.
 
 ## Google colab link 
 [link](https://github.com/tejas-python/Seattle-data-analysis/blob/master/seatle%20data%20analysis.ipynb)
+
 [download](https://tejas-python.github.io/Seattle-data-analysis/seatle%20data%20analysis.ipynb)
 ## Links
 [Data](https://www.kaggle.com/city-of-seattle/sea-building-energy-benchmarking#2015-building-energy-benchmarking.csv)
