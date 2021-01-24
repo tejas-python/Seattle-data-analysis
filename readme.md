@@ -44,19 +44,32 @@ from folium import plugins
 
 ## Plotting on the world map using location 
 
-* Following [plot](https://tejas-python.github.io/Seattle-data-analysis/2015map.html) gives GHE emission with respect to location.
+* Following [plot](https://tejas-python.github.io/Seattle-data-analysis/maps/2015map.html) gives GHE emission with respect to location.
 
 * Following
-[plot](https://tejas-python.github.io/Seattle-data-analysis/2015heatmap.html) gives GHE emission heat map with respect to Seatle.
+[plot](https://tejas-python.github.io/Seattle-data-analysis/maps/2015heatmap.html) gives GHE emission heat map with respect to Seatle.
 
-* Following [plot](https://tejas-python.github.io/Seattle-data-analysis/2016map.html) gives GHE emission with respect to location.
+* Following [plot](https://tejas-python.github.io/Seattle-data-analysis/maps/2016map.html) gives GHE emission with respect to location.
 
 * Following
-[plot](https://tejas-python.github.io/Seattle-data-analysis/2016heatmap.html) gives GHE emission heat map with respect to Seatle.
+[plot](https://tejas-python.github.io/Seattle-data-analysis/maps/2016heatmap.html) gives GHE emission heat map with respect to Seatle.
 
+colour value for 'GHGEmissions(MetricTonsCO2e)' in world map 
+* Green -  GHE emission< 10
+* lightgreen - 10<GHE emission>20
+* pink - 20<GHE emission>30
+*  black - 30<GHE emission>40
+* purple - 40<GHE emission>50
+* grey - 50<GHE emission>100
+* brown - 100<GHE emission>150
+* yellow - 150<GHE emission>200
+* lightblue - 200<GHE emission>250
+* dark blue- 250<GHE emission>500
+* orange - 500<GHE emission>1000
+* red - GHE emission>1000
 ## Google colab link 
-[link](https://github.com/tejas-python/Seattle-data-analysis/blob/master/seatle%20data%20analysis.ipynb)
+[link](https://github.com/tejas-python/Seattle-data-analysis/blob/master/partA/colab_file.ipynb)
 
-[download](https://tejas-python.github.io/Seattle-data-analysis/seatle%20data%20analysis.ipynb)
+[download](https://tejas-python.github.io/partA/colab_file.ipynb)
 ## Links
 [Data](https://www.kaggle.com/city-of-seattle/sea-building-energy-benchmarking#2015-building-energy-benchmarking.csv)
