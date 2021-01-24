@@ -2,7 +2,7 @@
 Values Skills: Data pre-processing, descriptive statistics, Python
 
 Skills: Regression methods, Prediction methods.
-
+[web link](https://tejas-python.github.io/Seattle-data-analysis/)
 
 # TASK
 
@@ -42,14 +42,14 @@ from folium import plugins
 ## Bar plot comparision for 2015 and 2016 with respect to building type for GHE emmision intensity
 ![bar plot](./image/bar2016.png)
 
-## Plotting on the waorld map using location 
-[World map1](https://rawgit.com/tejas-python/Seattle-data-analysis/master/2015map.html)
+## Plotting on the world map using location 
+[World map1](https://tejas-python.github.io/Seattle-data-analysis/2015map.html)
 
-[World map2](https://rawgit.com/tejas-python/Seattle-data-analysis/master/2015heatmap.html)
+[World map2](https://tejas-python.github.io/Seattle-data-analysis/2015heatmap.html)
 
-[World map3](https://rawgit.com/tejas-python/Seattle-data-analysis/master/2016map.html)
+[World map3](https://tejas-python.github.io/Seattle-data-analysis/2016map.html)
 
-[World map4](https://rawgit.com/tejas-python/Seattle-data-analysis/master/2016heatmap.html)
+[World map4](https://tejas-python.github.io/Seattle-data-analysis/2016heatmap.html)
 
 ## Google colab link 
 [link]()
