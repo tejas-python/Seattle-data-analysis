@@ -56,16 +56,16 @@ from folium import plugins
 
 colour value for 'GHGEmissions(MetricTonsCO2e)' in world map 
 * Green -  GHE emission< 10
-* lightgreen - 10<GHE emission>20
-* pink - 20<GHE emission>30
-*  black - 30<GHE emission>40
-* purple - 40<GHE emission>50
-* grey - 50<GHE emission>100
-* brown - 100<GHE emission>150
-* yellow - 150<GHE emission>200
-* lightblue - 200<GHE emission>250
-* dark blue- 250<GHE emission>500
-* orange - 500<GHE emission>1000
+* lightgreen - 10<'GHE emission'>20
+* pink - 20<'GHE emission'>30
+*  black - 30<'GHE emission'>40
+* purple - 40<'GHE emission'>50
+* grey - 50<'GHE emission'>100
+* brown - 100<'GHE emission'>150
+* yellow - 150<'GHE emission'>200
+* lightblue - 200<'GHE emission'>250
+* dark blue- 250<'GHE emission'>500
+* orange - 500<'GHE emission'>1000
 * red - GHE emission>1000
 ## Google colab link 
 [link](https://github.com/tejas-python/Seattle-data-analysis/blob/master/partA/colab_file.ipynb)
